@@ -1,6 +1,6 @@
 {
 	"name": "discord-markdown-fix",
-	"version": "2.5.1",
+	"version": "2.5.3",
 	"description": "A markdown parser for Discord messages",
 	"keywords": [
 		"discord",
