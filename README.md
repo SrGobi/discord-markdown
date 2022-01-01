@@ -51,7 +51,7 @@ toHTML('This is a mention for <@95286900801146880>', {
 	discordCallback: {
 		user: node => '@' + users[node.id];
 	}
-}); // -> This is a mention for @Brussell
+}); // -> This is a mention for @SrGobi
 ```
 
 ## Customizing
